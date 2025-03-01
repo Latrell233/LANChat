@@ -1,0 +1,9 @@
+
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+zeroconf>=0.38.0
+websockets>=10.0
+requests>=2.31.0
+rich>=13.7.0
+pyaudio>=0.2.11
