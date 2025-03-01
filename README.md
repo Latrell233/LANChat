@@ -20,7 +20,7 @@ A Python-based LAN instant messaging tool with automatic device discovery, text 
 
 ### 1. 下载代码 / Download Code
 ```bash
-git clone https://github.com/your-username/LANChat.git
+git clone https://github.com/Latrell233/LANChat.git/
 cd LANChat
 ```
 
